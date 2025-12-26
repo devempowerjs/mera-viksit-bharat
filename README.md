@@ -4,7 +4,7 @@ An original Hindi poem expressing a personal vision of a developed India,
 focusing on education, unity, cleanliness, technology, and responsible citizenship.
 
 ## Author
-Mayank
+Mayank Raj (devempowerjs)
 
 ## Copyright
 Copyright (c) 2025 Mayank Raj (devempowerjs)
